@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "name": "Barnum's Library",
+    "url": "",
+    "books": [
+        {
+            "name": "Animal Crossing: New Horizons",
+            "path": "https://raw.githubusercontent.com/jungtravor/pers0nal-libr4ry/main/Animal%20Crossing%3A%20New%20Horizons/book.json"
+        }
+    ]
+}
