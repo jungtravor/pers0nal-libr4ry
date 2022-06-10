@@ -1,11 +1,47 @@
 {
+    "name": "GZEZ",
     "version": "0.0.1",
-    "name": "Barnum's Library",
-    "url": "https://raw.githubusercontent.com/jungtravor/pers0nal-libr4ry/main/library.json",
-    "books": [
+    "library_description": "Information about students and teachers.",
+    "background": "#000000",
+    "font_color": "#ffffff",
+    "book_data": [
         {
-            "name": "Animal Crossing: New Horizons",
-            "path": "https://raw.githubusercontent.com/jungtravor/pers0nal-libr4ry/main/Animal%20Crossing%3A%20New%20Horizons/book.json"
+            "title": "2014 Student List S1",
+            "path": "/2014/2014-S1.csv",
+            "version": "1.0.0",
+            "book_type": "list",
+            "book_description": "For senior 1 students in 2014, student ID and name are listed in this book.",
+            "background": "#000000",
+            "font_color": "#ffffff",
+            "encrypted": true
+        },
+        {
+            "title": "2014 Student List S2",
+            "path": "/2014/2014-S2.csv",
+            "version": "1.0.0",
+            "book_type": "list",
+            "book_description": "For senior 2 and 3 students in 2015-2017, student ID and name are listed in this book.",
+            "background": "#000000",
+            "font_color": "#ffffff",
+            "encrypted": true
+        },
+        {
+            "title": "2014 Teacher List S1",
+            "path": "/2014/2014-T1.csv",
+            "version": "1.0.0",
+            "book_type": "list",
+            "book_description": "Head teachers for senior 1 in 2014.",
+            "background": "#000000",
+            "font_color": "#ffffff"
+        },
+        {
+            "title": "2014 Teacher List S2",
+            "path": "/2014/2014-T2.csv",
+            "version": "1.0.0",
+            "book_type": "list",
+            "book_description": "Head teachers for senior 2 in 2015-2017.",
+            "background": "#000000",
+            "font_color": "#ffffff"
         }
     ]
 }
