@@ -4,7 +4,7 @@
     "libraryDescription": "Information about students and teachers.",
     "background": "#000000",
     "fontColor": "#ffffff"
-    "bookList": [
+    "bookLis": [
         {
             "version": "1.0.0",
             "title": "2014 Student List S1",
