@@ -3,7 +3,7 @@
     "name": "GZEZ",
     "libraryDescription": "Information about students and teachers.",
     "background": "#000000",
-    "fontColor": "#ffffff",
+    "fontColor": "#ffffff"
     "bookList": [
         {
             "version": "1.0.0",
