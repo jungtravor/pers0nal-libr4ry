@@ -1,0 +1,47 @@
+{
+    "version": "0.0.1",
+    "name": "GZEZ",
+    "libraryDescription": "Information about students and teachers.",
+    "background": "#000000",
+    "fontColor": "#ffffff",
+    "bookList": [
+        {
+            "version": "1.0.0",
+            "title": "2014 Student List S1",
+            "path": "/2014/2014-S1.csv",
+            "bookType": "list",
+            "bookDescription": "For senior 1 students in 2014, student ID and name are listed in this book.",
+            "background": "#000000",
+            "fontColor": "#ffffff",
+            "encrypted": true
+        },
+        {
+            "version": "1.0.0",
+            "title": "2014 Student List S2",
+            "path": "/2014/2014-S2.csv",
+            "bookType": "list",
+            "bookDescription": "For senior 2 and 3 students in 2015-2017, student ID and name are listed in this book.",
+            "background": "#000000",
+            "fontColor": "#ffffff",
+            "encrypted": true
+        },
+        {
+            "version": "1.0.0",
+            "title": "2014 Teacher List S1",
+            "path": "/2014/2014-T1.csv",
+            "bookType": "list",
+            "bookDescription": "Head teachers for senior 1 in 2014.",
+            "background": "#000000",
+            "fontColor": "#ffffff"
+        },
+        {
+            "version": "1.0.0",
+            "title": "2014 Teacher List S2",
+            "path": "/2014/2014-T2.csv",
+            "bookType": "list",
+            "bookDescription": "Head teachers for senior 2 in 2015-2017.",
+            "background": "#000000",
+            "fontColor": "#ffffff"
+        }
+    ]
+}
