@@ -6,40 +6,40 @@
     "fontColor": "#ffffff",
     "bookList": [
         {
-            "version": "1.0.0",
-            "title": "2014 Student List S1",
-            "path": "/2014/2014-S1.csv",
+            "version": "1.0.1",
+            "title": "2014 Student List 1",
+            "path": "/2014/2014-Student-1.csv",
             "bookType": "list",
-            "bookDescription": "For senior 1 students in 2014, student ID and name are listed in this book.",
+            "bookDescription": "Senior 1 student list in 2014 with student ID and name listed.",
             "background": "#000000",
             "fontColor": "#ffffff",
             "encrypted": true
         },
         {
-            "version": "1.0.0",
-            "title": "2014 Student List S2",
-            "path": "/2014/2014-S2.csv",
+            "version": "1.0.1",
+            "title": "2014 Student List 2",
+            "path": "/2014/2014-Student-2.csv",
             "bookType": "list",
-            "bookDescription": "For senior 2 and 3 students in 2015-2017, student ID and name are listed in this book.",
+            "bookDescription": "Senior 2 and 3 student list in 2015-2017 with student ID and name listed.",
             "background": "#000000",
             "fontColor": "#ffffff",
             "encrypted": true
         },
         {
-            "version": "1.0.0",
-            "title": "2014 Teacher List S1",
-            "path": "/2014/2014-T1.csv",
+            "version": "1.0.1",
+            "title": "2014 Class List 1",
+            "path": "/2014/2014-Class-1.csv",
             "bookType": "list",
-            "bookDescription": "Head teachers for senior 1 in 2014.",
+            "bookDescription": "Senior 1 class information for class of 2014.",
             "background": "#000000",
             "fontColor": "#ffffff"
         },
         {
-            "version": "1.0.0",
-            "title": "2014 Teacher List S2",
-            "path": "/2014/2014-T2.csv",
+            "version": "1.0.1",
+            "title": "2014 Teacher List 2",
+            "path": "/2014/2014-Class-2.csv",
             "bookType": "list",
-            "bookDescription": "Head teachers for senior 2 in 2015-2017.",
+            "bookDescription": "Senior 2 class information for class of 2014.",
             "background": "#000000",
             "fontColor": "#ffffff"
         }
