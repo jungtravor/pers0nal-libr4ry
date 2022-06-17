@@ -1,0 +1,18 @@
+{
+    "version": "0.0.1",
+    "name": "动物森友会",
+    "libraryDescription": "动森的信息大全！",
+    "background": "#000000",
+    "fontColor": "#ffffff",
+    "bookList": [
+        {
+            "version": "1.0.1",
+            "title": "价目表",
+            "path": "/prices.csv",
+            "bookType": "list",
+            "bookDescription": "Nooks 商店的物品出售价格表",
+            "background": "#000000",
+            "fontColor": "#ffffff"
+        }
+    ]
+}
